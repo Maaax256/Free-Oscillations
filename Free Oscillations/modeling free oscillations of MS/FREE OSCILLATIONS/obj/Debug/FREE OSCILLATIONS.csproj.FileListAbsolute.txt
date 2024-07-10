@@ -1,0 +1,31 @@
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.exe.config
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.exe
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.pdb
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Form1.resources
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Properties.Resources.resources
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.GenerateResource.cache
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.CoreCompileInputs.cache
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.exe
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.pdb
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\Interop.DXTMSFTLib.dll
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\Interop.DXTRANSLib.dll
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.ResolveComReference.cache
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Form2.resources
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.CopyComplete
+C:\Users\Kate\WORK\Дипломы 2024\Омельков М\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.AssemblyReference.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.exe.config
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.exe
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\bin\Debug\FREE OSCILLATIONS.pdb
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.AssemblyReference.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.SuggestedBindingRedirects.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\Interop.DXTMSFTLib.dll
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\Interop.DXTRANSLib.dll
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.ResolveComReference.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Form1.resources
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Form2.resources
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE_OSCILLATIONS.Properties.Resources.resources
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.GenerateResource.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.CoreCompileInputs.cache
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.csproj.CopyComplete
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.exe
+E:\Учёба уник\Диплом\Омельков_застосунок\Омельков\modeling free oscillations of MS\FREE OSCILLATIONS\obj\Debug\FREE OSCILLATIONS.pdb
